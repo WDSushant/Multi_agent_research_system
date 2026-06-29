@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-community
+langchain_google_genai
+tavily-python
+beautifulsoup4
+requests
